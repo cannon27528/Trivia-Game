@@ -31,7 +31,7 @@ var questions= [{
 },{
     question: "Is Shadow is a Good Boy?",
     answerList: ["No", "Yes", "I've never met him", "I mean he could be"],
-    answer: 0
+    answer: 1
     
 }];
 
