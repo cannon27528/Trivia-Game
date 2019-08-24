@@ -29,8 +29,8 @@ var questions= [{
     answerList:["Breaking Bad", "Fresh Prince", "Spongebob", "Literally Whatever is On"],
     answer: 3
 },{
-    question: "Shadow is a Good Boy",
-    answerList: ["True, False"],
+    question: "Is Shadow is a Good Boy?",
+    answerList: ["No", "Yes", "I've never met him", "I mean he could be"],
     answer: 0
     
 }];

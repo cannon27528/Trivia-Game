@@ -1,11 +1,12 @@
 body{
+    font-family: 'ZCOOL XiaoWei', serif;
     color: rgb(255, 117, 237);  
     background: url("../images/shadow.jpg");
     background-size: 1500px 1000px; 
     background-repeat: no-repeat;
 }
 .container{
-    background: #c6e5ec;
+    background: rgb(22, 38, 73);
     padding: 30px;
     margin: 0 15%;
     text-align: center;
